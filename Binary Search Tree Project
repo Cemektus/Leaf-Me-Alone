@@ -1,0 +1,14 @@
+Proje 3
+
+[7, 5, 1, 8, 3, 6, 0, 9, 4, 2] dizisinin Binary-Search-Tree aşamalarını yazınız.
+
+Root is 7.
+5 is less than 7 so it is on the left side of 7.
+1 is less than 7 so it is on the left side of 7 and on the left side of 5.
+8 is bigger than 7 so it is on the right side of 7.
+3 is less than 7. It is on the left side of 7 and on the right side of 1.
+6 is on the left side of 7 and the right side of 5.
+0 is on the left side of 7 and on the left side of 1.
+9 is on the right side of 7 and on the right side of 8.
+4 is on the left side of 7 and on the right side of 3.
+2 is on the left side of 7 and on the left side of 3.
